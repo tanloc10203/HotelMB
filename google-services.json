@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "957805094333",
+    "project_id": "bookings-95a02",
+    "storage_bucket": "bookings-95a02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957805094333:android:8f56b520348cac3a00ded4",
+        "android_client_info": {
+          "package_name": "com.tanloc10203.ECHotel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "957805094333-uorm5frjo64iduuq701i2vjh1q9bqa5c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tanloc10203.ECHotel",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "957805094333-kmgm1ocbkhp49jacb69qe3pco5bmr5qt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyua0FCZYtsuQnqf8q6PrVVLTV9vgGcDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "957805094333-kmgm1ocbkhp49jacb69qe3pco5bmr5qt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
